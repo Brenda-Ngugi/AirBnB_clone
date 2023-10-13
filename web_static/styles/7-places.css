@@ -1,0 +1,27 @@
+.places{
+    text-align: center;
+    font-size: 30px;
+}
+.places h1{
+    text-align: left;
+}
+
+.places div {
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: #FF5A5F 1px solid;
+    border-radius: 4px;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+
+.left {
+    float: left;
+}
+
+.right{
+    float: right;
+}

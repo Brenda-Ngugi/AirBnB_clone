@@ -1,0 +1,3 @@
+assign unique id using uuid.uuid4()
+check is created_at and updated_at is the created correctly
+create  an instance with class name , id, and __dict__ and check if its same

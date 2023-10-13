@@ -1,0 +1,5 @@
+- Class unit test must contain tests for:
+      Inherited attributes from the basemodel
+      Class attribute tests
+      tests for new, update
+      
